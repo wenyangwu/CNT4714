@@ -1,1 +1,1 @@
-# CNT4714 Projects
+# CNT4714 Enterprise Computing Projects
